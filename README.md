@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋,Chamo-me Aluno</h1>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="40" height="40"/><h1 align="center">Oi 👋,Chamo-me Aluno</h1>
 
 <p align="center">
 <a href=https://linkedin.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
@@ -16,5 +16,4 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AlunoGit&show_icons=true alt=rahuldkjain /> </p>
 
-
-![500PX 20](https://user-images.githubusercontent.com/72670147/99971684-4adb1b00-2d7c-11eb-98a8-409a8281045f.png)
+ <img src=https://user-images.githubusercontent.com/72670147/99971684-4adb1b00-2d7c-11eb-98a8-409a8281045f.png alt=mongodb width="40" height="40"/>
